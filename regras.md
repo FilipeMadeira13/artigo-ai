@@ -18,7 +18,7 @@
 
     Criado com lexica.art e Canva
 
-## Blocos (No mínimo 3 blocos sobre o assunto)
+## Blocos
 
     > Comporte-se como um escritor de artigos tech analista de dados e escreva o Artigo atendendo as regras abaixo:
 
