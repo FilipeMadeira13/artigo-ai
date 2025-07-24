@@ -1,4 +1,4 @@
-# 🐼 Explorando o Poder do Pandas com Python
+# Criação de artigos com ajuda da Inteligência Artificial
 
 Este repositório contém o artigo **“5 funções pouco conhecidas do Pandas para agilizar suas análises”**, desenvolvido como parte de um projeto da [DIO (Digital Innovation One)](https://www.dio.me/), com foco em boas práticas de manipulação de dados utilizando a biblioteca `pandas`.
 
