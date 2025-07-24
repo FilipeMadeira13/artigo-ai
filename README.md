@@ -23,7 +23,7 @@ Compartilhar conhecimento prático sobre análise e manipulação de dados em Py
 
 ## 📎 Acesso ao Artigo
 
-> Em breve disponível na plataforma da [DIO](https://www.dio.me/), na seção de artigos da comunidade.
+> [DIO](https://web.dio.me/articles/5-funcoes-pouco-conhecidas-do-pandas-para-agilizar-suas-analises-4e65dc873069)
 
 
 ---
